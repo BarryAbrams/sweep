@@ -84,7 +84,7 @@
 		bindings = <
 		&kp BANG  &kp ATSN &kp HASH  &kp DLLR  &kp PRCT    			&kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN 
 		&kp LGUI  &kp LALT &kp LCTL  &kp LSHIFT &kp K_VOL_UP		  	&kp MINUS &kp KP_EQUAL  &kp LBRC  &kp RBRC   &kp BKSP
-		&kp Z &kp X &kp C &kp V &kp B	        &kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT
+		&kp Z  &kp Z  &kp Z &kp Z  &kp K_VOL_DOWN	        &kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT
 					  &mo 3 &kp LCTL  				&kp SPC  &mo 2 
 		>;
 		};	
