@@ -19,7 +19,7 @@
                 &kp Q &kp W &kp E &kp R &kp T 						&kp Y &kp U  &kp I    &kp O   &kp P 
                 &kp A &kp S &kp D &kp F &kp G 			        	&kp H &kp J  &kp K    &kp L   &kp QUOT
                 &kp Z &kp X &kp C &kp V &kp B				        &kp N &kp M  &kp CMMA &kp DOT &kp FSLH
-                                  &mo 1 &mo LSHIFT  				&kp SPC &mo 2 
+                                  &mo 1 &kp LSHIFT  				&kp SPC &mo 2 
             >;
 		};
 
@@ -28,7 +28,7 @@
                 &kp NUM_1  &kp NUM_2 &kp NUM_3 &kp NUM_4 &kp NUM_5		     &kp Y &kp U &kp I &kp O &kp P 
                 &kp LSHIFT &kp LCTL &kp LALT &kp LGUI &kp TAB 	         &kp H &kp J &kp K &kp L  &kp QUOT 
                 &kp ESC &kp LBKT &kp RBKT &kp KP_MINUS &kp KP_EQUAL	         &kp N &kp M &kp CMMA &kp DOT  &kp FSLH 
-                                          &mo 1  &kp LSHIFT  		         &kp ENTER &mo 3 
+                                          &mo 1  &kp LSHIFT		         &kp ENTER &mo 3 
             >;
 		};
 		
@@ -37,7 +37,7 @@
                 &kp Q &kp W &kp E &kp R &kp T    	    		&kp NUM_6  &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0 
                 &kp A &kp S &kp D &kp F &kp G		      	    &kp SQT &kp LGUI  &kp LALT  &kp LCTL   &kp LSHIFT
                 &kp Z &kp X &kp C &kp V &kp B                   &kp BACKSPACE &kp LEFT &kp UP &kp RIGHT &kp DOWN
-                            &mo 3 &mo LSHIFT  			        &kp SPC  &mo 2 
+                            &mo 3 &kp LSHIFT  			        &kp SPC  &mo 2 
             >;
 		};	
 		
