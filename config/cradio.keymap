@@ -57,9 +57,9 @@
 	
 	functions_layer {
 		bindings = <
-            &kp B  &kp A &kp R &kp R &kp Y 			&kp A &kp B &kp R &kp A &kp M
-            &none &none &none &none &none  		&none &none  &kp PG_UP  &kp K_VOL_UP &kp K_MUTE 
-            &none &none &none &none &none   			&kp DELETE &none &kp PG_DN  &kp K_VOL_DN  &kp FSLH   
+            &bt BT_CLR  &none &none &none &none			&bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_SEL 5
+            &none &none &none &none &none  		&none &none  &none  &none &none 
+            &none &none &none &none &none   			&none &none &none  &none &none
                         &to MOD_LEFT &none  					&none &to MOD_LEFT 
             >;
 		};	
