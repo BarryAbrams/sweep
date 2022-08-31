@@ -53,9 +53,7 @@
             &none &none &none &none &lt FUNCTIONS SPACE   			&kp DELETE &none &kp PG_DN  &kp K_VOL_DN  &kp FSLH   
                         &none &none  					&none &none 
             >;
-		};	
-        
-	};
+		};
 	
 	functions_layer {
 		bindings = <
